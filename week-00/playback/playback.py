@@ -1,0 +1,3 @@
+# Recebe um input e printa o mesmo input substituindo os espaços por ...
+n = input("").replace(" ","...")
+print(n)
